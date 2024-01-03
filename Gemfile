@@ -47,6 +47,7 @@ gem "bootsnap", require: false
 
 # ページネーション機能
 gem "kaminari"
+gem 'bootstrap5-kaminari-views'
 
 # 検索機能
 gem "ransack"

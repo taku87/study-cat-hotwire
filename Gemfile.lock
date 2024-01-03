@@ -72,6 +72,9 @@ GEM
     bootstrap5-kaminari-views (0.0.1)
       kaminari (>= 0.13)
       rails (>= 3.1)
+    bootstrap_form (5.4.0)
+      actionpack (>= 6.1)
+      activemodel (>= 6.1)
     builder (3.2.4)
     concurrent-ruby (1.2.2)
     crass (1.0.6)
@@ -221,6 +224,7 @@ PLATFORMS
 DEPENDENCIES
   bootsnap
   bootstrap5-kaminari-views
+  bootstrap_form
   cssbundling-rails
   debug
   dockerfile-rails (>= 1.6)
